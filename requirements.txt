@@ -1,6 +1,6 @@
 # Core LLM and Embeddings
 gpt4all==2.8.2
-sentence-transformers==3.3.1
+#sentence-transformers==3.3.1
 
 # Vector Database (CPU version)
 faiss-cpu==1.9.0
@@ -13,7 +13,7 @@ numpy>=1.26.0,<2.0.0
 
 
 pdfplumber==0.8.0
-#sentence-transformers==2.2.2
+sentence-transformers==2.2.2
 #faiss-cpu==1.7.4
 transformers==4.35.0
 torch==2.2.0
@@ -23,5 +23,6 @@ pydantic==1.10.12
 streamlit==1.50.0
 
 protobuf==3.20.1
+
 
 
